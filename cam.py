@@ -24,7 +24,6 @@ subprocess.run(["scp","/home/pi/Desktop/image.jpg","user@192.168.43.108:/home/us
 
 
 
-ImageProc.py
-import cv2
+
 
 
